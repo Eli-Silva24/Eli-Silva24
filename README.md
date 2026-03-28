@@ -1,14 +1,24 @@
 # Hi, I'm Eli 👋  
 # Olá, eu sou o Eli 👋  
 
-🎯 Aspiring SOC Analyst  
-🎯 Aspirante a Analista SOC  
+🎯 Aspiring SOC Analyst | Focused on Blue Team & Threat Detection
+🎯 Aspirante a Analista SOC | Focado em Blue Team e Detecção de Ameaças
 
 🔐 Focused on Blue Team and cybersecurity  
 🔐 Focado em Blue Team e cibersegurança  
 
 📚 Studying log analysis, incident response, and threat detection  
 📚 Estudando análise de logs, resposta a incidentes e detecção de ameaças  
+
+## 🧪 Practical Experience | Experiência Prática
+
+- 🔍 Analyzing logs in simulated SOC environments (LetsDefend)
+- 📊 Investigating alerts and identifying false positives
+- 🛡️ Understanding attack patterns (Phishing, MITRE ATT&CK)
+
+- 🔍 Analisando logs em ambientes simulados (LetsDefend)
+- 📊 Investigando alertas e identificando falsos positivos
+- 🛡️ Estudando padrões de ataque (Phishing, MITRE ATT&CK)
 
 ---
 
